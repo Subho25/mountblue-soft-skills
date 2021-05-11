@@ -1,5 +1,5 @@
 # Messaging Queue
-![Message Bus](images/message-bus-760x360.png)
+![Message Bus](images/mq.png)
 ---
 ### Let's start with "What is a Message Queue?"
 
@@ -39,6 +39,8 @@ Message Queues **follow the FIFO** rule.
 ---
 
 #### What is an Enterprise Message bus?
+
+![Message Bus](images/message-bus-toplogy.png)
 
 Using a **Message Bus** or **Service Bus** *one or more application/processes can
 communicate messages to one or more other applications/processes.*
